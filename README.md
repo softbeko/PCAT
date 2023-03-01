@@ -8,3 +8,47 @@
 
 
 
+we can update photo title , photo description , photo on this page. 
+
+![this pages](https://raw.githubusercontent.com/softbeko/PCAT/main/img/Screenshot_1.png)
+
+
+
+*
+*
+*
+*
+*
+*
+photo will came to home page 
+![this pages](https://raw.githubusercontent.com/softbeko/PCAT/main/img/Screenshot_2.png)
+
+*
+*
+*
+*
+*
+*
+*
+*
+
+if we want to edit title or description , we should go to edit page 
+![this pages](https://raw.githubusercontent.com/softbeko/PCAT/main/img/Screenshot_3.png)
+
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
+
+
+
